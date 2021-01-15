@@ -41,7 +41,7 @@
 
 ## Workflow
 
-(Implemented Workflow in project)
+(Image Workflow Implemented in project)
 
 ⦁	I started to draw my idea
 
@@ -59,7 +59,9 @@
 ## How did you organize your work?
 
 ⦁	I started working with board on Trello, what I need to do?
-⦁	With calm, I think about how want to do this project,
+
+⦁	With calm, I think about how want to do this project.
+
 ⦁	Think what task i need to do for finish my project.
 
 (Image trello implemented in Project)
