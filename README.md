@@ -21,13 +21,21 @@
 ## Rules
 
 ⦁	Whoever gets closer to 21. Win
+
 ⦁	The numbers of the cards is their value
+
 ⦁	The cards that contains one figure takes value 10
+
 ⦁	The players only can see one dealer card
+
 ⦁	All A’s take only value 1.
+
 ⦁	If some player pass 21 this player automatically lost
+
 ⦁	Each player can ask for an unlimited number of card, if he doesn’t exceed 21
+
 ⦁	If player and dealer tie, win player
+
 ⦁	Dealer play when all players have finished.
 
 
@@ -36,11 +44,14 @@
 (Implemented Workflow in project)
 
 ⦁	I started to draw my idea
+
 ⦁	With this idea, i can see how many situations and steps are repeated.
+
 ⦁	And i can see the most important variables
+
 ⦁	Step by Step (Tru and failure)
 
-	- I try program the first situation and program the situations that implies more 	  situations
+	- I try program the first situation and program the situations that implies more situations
     
 ⦁	Optimize and simplify code with functions, is I see that some steps or situations repeat I will try implement a function
 
