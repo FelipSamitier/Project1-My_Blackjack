@@ -74,7 +74,9 @@
 
 	- Other folder that contains the workflow
 
-	- And two files (ignoreme and readme)
+	- One folder for the images
+    
+    - And two files (ignoreme and readme)
 
 
 
