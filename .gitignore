@@ -125,5 +125,8 @@ venv.bak/
 .dmypy.json
 dmypy.json
 
+# ingora aixo
+
+README.odt
 # Pyre type checker
 .pyre/
