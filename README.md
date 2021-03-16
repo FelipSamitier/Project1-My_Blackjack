@@ -11,7 +11,7 @@
 
 ## Project Description
 
-⦁	Blackjack is the most popular gambling card game, It seems simple but has many mathematical things
+⦁	Blackjack is one of the most used card games in casinos, the idea for this project is to create a simulation of this game with my rules. The motivation for this project was the movie BlackJack21.
 
 ## How to play
 
